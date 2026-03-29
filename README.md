@@ -2,7 +2,6 @@
 
 A production-grade RESTful API built with **FastAPI** and **SQLAlchemy** for tracking personal income, expenses, and budgets — with real-time budget overspend detection.
 
-![CI](https://github.com/Vedadweep/finance-tracker-api/actions/workflows/ci.yml/badge.svg)
 
 ---
 
